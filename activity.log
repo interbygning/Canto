@@ -77,3 +77,4 @@
 2025-03-14 12:22:53 improve UX
 2025-03-20 02:03:30 fix docker build
 2025-03-17 02:04:42 cleanup dependencies
+2025-02-26 01:30:13 improve logging format
